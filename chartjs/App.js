@@ -1,11 +1,11 @@
 import './App.css';
-import Lines from './Lines';
+import Charts from './Charts';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Lines />
+        <Charts />
       </header>
     </div>
   );

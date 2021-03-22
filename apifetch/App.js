@@ -1,11 +1,11 @@
+import ApiChart from './ApiChart';
 import './App.css';
-import Lines from './Lines';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Lines />
+       <ApiChart/>
       </header>
     </div>
   );

@@ -1,12 +1,10 @@
 import './App.css';
-import Lines from './Lines';
+import LineChart from './LineChart';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Lines />
-      </header>
+      <LineChart />
     </div>
   );
 }
