@@ -1,7 +1,7 @@
 # Lively Lab
 This repository hosts demo code for tutorial videos produced by Lively Lab. 
 
-Each demo in this repo only contains the necessary scripts to complete the task. In other words, if you are developing a React web application, we are only providing sample code for a specific feature not the entire application. In most cases, we will have the App.js where you configure the component as well as the Component.js. 
+Each demo in this repo only contains the necessary scripts to complete a task. In other words, if you are developing a React web application, we can only provide sample code for a specific feature not the entire application. In most cases, we will have the App.js where you configure the component as well as the Component.js. 
 
 Contact
 -----
