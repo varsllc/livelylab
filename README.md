@@ -15,8 +15,8 @@ Mapbox GL.js
 
 Contact
 -----
-We focus on client side solutions. If you have a backend issue, we might not be able to get back to you immediately BUT we are open for a discussion.
+We focus on client side data solutions. If you have a backend issue, we might not be able to get back to you immediately BUT we are open for a discussion.
 
-To request a tutorial, [let us know](https://docs.google.com/forms/d/e/1FAIpQLScscPFZVxkH6hmHLAqXBbzXlPYP1TXhXLrC-z2XgTr3MyRHpg/viewform).
+To request a tutorial, [click here](https://docs.google.com/forms/d/e/1FAIpQLScscPFZVxkH6hmHLAqXBbzXlPYP1TXhXLrC-z2XgTr3MyRHpg/viewform).
 
 To contact us, email to lively.lab@vars.co. 
