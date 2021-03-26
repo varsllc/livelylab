@@ -10,7 +10,7 @@ Down below is a list of frameworks and libraries that are used in our current de
 #### Framework
 React
 #### Data Visualization
-Plotly.js
+Plotly.js<br/>
 Mapbox GL.js
 
 Contact
